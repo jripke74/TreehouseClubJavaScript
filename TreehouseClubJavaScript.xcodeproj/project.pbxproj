@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		89C72E551F4B2C520099CD88 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		89C72E571F4B34580099CD88 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = style.css; path = css/style.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -15,7 +16,16 @@
 			isa = PBXGroup;
 			children = (
 				89C72E551F4B2C520099CD88 /* index.html */,
+				89C72E581F4B35810099CD88 /* css */,
 			);
+			sourceTree = "<group>";
+		};
+		89C72E581F4B35810099CD88 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				89C72E571F4B34580099CD88 /* style.css */,
+			);
+			name = css;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
